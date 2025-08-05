@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+header
+{
+    background-color: black;
+
+
+
+}
+
+section {
+    background:  #222;
+}
+
+
+
+h1 {font-size: 2,79vw;
+   
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+#estudante
+{  margin: 10px;
+    padding: 40px;
+    text-align: center;
+    color: white;
+    font-size: 2vw;
+}
+.menu
+{display: flex;
+    justify-content: center;
+    background-color:#CCCCCC;
+    padding: 20px 0;
+}
+.menu ul{
+ list-style: none;
+ display: flex;
+ gap: 40px;
+ padding: 0;
+ margin: 0;
+}
+.menu a{
+ text-decoration: none;
+ color: black;
+ font-size: 18px;
+ padding-bottom: 5px;   
+ position: relative;
+}
+
+ #img1 {
+    padding: 60px;
+    width: 360px;
+    height: 360px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.imgss {
+    width: 320px;
+    height: 180px;
+    gap: 50px;
+}
+.container {
+    display:flex;
+    align-items: center;
+    
+    gap: 4rem;
+    justify-content: center;
+    padding: 60px;
+}
+
+
+
+
+#meunome {   
+    color: white;
+    font-size: 2vw;    
+    width: 60%;
+}
+
+
+
+
+
+#h21
+{   padding: 70px;
+    font-size: 3vw;
+    text-align: center;
+}
+
+main{
+    color: white;
+
+}
+#PROJETOS
+{
+    padding: 150px;
+   display: flex;
+   justify-content:space-evenly ;
+   gap: 80px;
+ 
+
+}
+
+#header1
+{text-align: center;
+ padding: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+height: 100vh;  
+gap: 100px;
+}
+
+.container-imgsss-projetos
+{ 
+    background-color: white;
+    border:15px solid black;
+
+}
+.container-imgsss-projetos > h2 {
+    color: #fff;
+}
+
+
+.headers
+{ display: flex;
+  justify-content: center;
+margin: 40px;
+font-size: 2vw;
+
+
+
+}
+
+
+#contatos
+{ 
+    text-align: center;
+    padding: 40px;
+    font-size:2vw ;
+}
+.form-container
+{
+display: flex;
+justify-content: center;
+padding: 10px;
+flex-wrap: wrap;
+align-items: center;
+
+}
+form{
+    display: flex;  
+    gap: 15px;
+    width: 300px;
+flex-direction: column;
+position: relative;
+right: 100px;
+border: 2px solid white;
+padding: 15px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+    height: 10px;
+    
+}
+button{
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+    
+}
+
+#img2
+{
+position: relative;
+right: 190px;
+border-radius: 50%;
+width: 225px;
+height: 225px;
+
+}
+#section3{
+
+padding-bottom: 60px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
